@@ -1,11 +1,11 @@
 # Site settings
 author: Daisuke Hashimoto
-title: 
+title: tech_Otaku_That_Tries_To_Save_The_World
 header-img: img/home-bg.png
 email: daisukehashimoto39@gmail.com
 copyright_name: Daisuke Hashimoto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Journey of the Tech Otaku
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dice-K39
