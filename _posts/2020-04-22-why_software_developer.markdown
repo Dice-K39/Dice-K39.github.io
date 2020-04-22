@@ -10,4 +10,4 @@ Why did I decide to learn software development? Good question but there is a bet
 
 Since starting the whole-sale warehouse job, my life has been getting better. Until a certain game releasing on the iPhone, I have not considered programming/coding at all. After I installed and loaded this game, I was amazed at how a small device can run a game that has computer graphics on par with current generation gaming consoles. That made me get back into programming and try out different game engine technologies that were free to use. I thought to myself that I had to get back to programming more often because I genuinely enjoy piecing together lines of code to make programs do something. That is why I am going to pursue to become a software developer, hopefully a game developer.
 
-![](https://app.photobucket.com/u/amatasora39/p/62d8f4b4-6c8f-4566-8756-1e08b780bc43)
+
