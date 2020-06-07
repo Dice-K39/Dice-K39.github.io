@@ -28,7 +28,7 @@ I will get both the space and the exclamation point. Easiest way to select the e
 	
 This was only a simple example of using regex to select patterns. In my CLI project, I used a regular expression to pull html tags that just became plain text out of a string. It just did not look right with them in. And this was how I did that:
 
-/<("[^"]*"|[^'">])*>/
+`/<("[^"]*"|[^'">])*>/`
 
 I somehow came to this conclusion after countless hours searching the web. I am not a pro at handling regular expressions yet but I will try to master this concept even if it takes a very long time. I believe this is a very powerful concept that will help me in the long run. (And I love hard concepts!)
 
