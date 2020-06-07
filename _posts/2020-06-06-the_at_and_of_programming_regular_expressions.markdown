@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The !@#$%^&* of Programming: Regular Expressions"
-date:       2020-06-07 01:13:52 +0000
+date:       2020-06-06 21:13:53 -0400
 permalink:  the_at_and_of_programming_regular_expressions
 ---
 
