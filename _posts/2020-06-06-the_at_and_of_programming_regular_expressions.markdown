@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The "!@#$%^&*" of Programming: Regular Expressions"
+title:      "The !@#$%^&* of Programming: Regular Expressions"
 date:       2020-06-06 21:13:53 -0400
 permalink:  the_at_and_of_programming_regular_expressions
 ---
@@ -30,7 +30,7 @@ This was only a simple example of using regex to select patterns. In my CLI proj
 
 /<("[^"]*"|[^'">])*>/
 
-I somehow came to this conclusion after countless hours searching the web. I am not a pro at handling regular expressions but I will try to master this concept even if it takes a very long time. I believe this is a very powerful concept that will help me in the long run. (And I love hard concepts!)
+I somehow came to this conclusion after countless hours searching the web. I am not a pro at handling regular expressions yet but I will try to master this concept even if it takes a very long time. I believe this is a very powerful concept that will help me in the long run. (And I love hard concepts!)
 
 
 
