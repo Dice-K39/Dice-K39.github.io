@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project"
-date:       2020-08-02 18:15:24 +0000
+date:       2020-08-02 14:15:25 -0400
 permalink:  sinatra_project
 ---
 
@@ -18,40 +18,40 @@ For a copy of my application, please go to my [GitHub account](https://github.co
 ## The File Tree
 SINATRA_PROJECT                                                                                                                                                                 
 |-app                                                                                                                                                                                           
-|   |-controllers                                                                                                                                                                           
-|   |   |_application_controller.rb                                                                                                                                                   
-|   |   |_gamer_controller.rb                                                                                                                                                         
-|   |   |_video_game_controller.rb                                                                                                                                                 
-|   |-models                                                                                                                                                                                 
-|   |   |_gamer.rb                                                                                                                                                                           
-|   |   |_video_game.rb                                                                                                                                                                 
-|   |-views                                                                                                                                                                                   
-|       |-gamers                                                                                                                                                                             
-|       |   |_login.erb                                                                                                                                                                       
-|       |   |_signup.erb                                                                                                                                                                   
-|       |-video_games                                                                                                                                                                   
-|       |   |_edit.erb                                                                                                                                                                         
-|       |   |_index.erb                                                                                                                                                                     
-|       |   |_new.erb                                                                                                                                                                       
-|       |   |_show.erb                                                                                                                                                                     
-|       |_index.erb                                                                                                                                                                         
-|       |_layout.erb                                                                                                                                                                         
+|    |-controllers                                                                                                                                                                           
+|    |    |_application_controller.rb                                                                                                                                                 
+|    |    |_gamer_controller.rb                                                                                                                                                       
+|    |    |_video_game_controller.rb                                                                                                                                               
+|    |-models                                                                                                                                                                               
+|    |    |_gamer.rb                                                                                                                                                                         
+|    |    |_video_game.rb                                                                                                                                                               
+|    |-views                                                                                                                                                                                   
+|         |-gamers                                                                                                                                                                           
+|         |     |_login.erb                                                                                                                                                                   
+|         |     |_signup.erb                                                                                                                                                               
+|         |-video_games                                                                                                                                                                 
+|         |     |_edit.erb                                                                                                                                                                     
+|         |     |_index.erb                                                                                                                                                                 
+|         |     |_new.erb                                                                                                                                                                   
+|         |     |_show.erb                                                                                                                                                                 
+|         |_index.erb                                                                                                                                                                       
+|         |_layout.erb                                                                                                                                                                       
 |-config                                                                                                                                                                                       
-|   |_environment.rb                                                                                                                                                                     
+|    |_environment.rb                                                                                                                                                                   
 |-db                                                                                                                                                                                             
-|   |-migrate                                                                                                                                                                                 
-|   |   |_create_gamers.rb                                                                                                                                                             
-|   |   |_create_video_games.rb                                                                                                                                                   
-|   |   |_add_column_email_to_gamers_table.rb                                                                                                                         
-|   |   |_remove_column_producer_from_video_games_table.rb                                                                                                 
-|   |   |_rename_column_release_date_to_date_purchased_in_video_games_table.rb                                                               
-|   |_schema.rb                                                                                                                                                                           
+|    |-migrate                                                                                                                                                                               
+|    |     |_create_gamers.rb                                                                                                                                                         
+|    |     |_create_video_games.rb                                                                                                                                                 
+|    |     |_add_column_email_to_gamers_table.rb                                                                                                                       
+|    |     |_remove_column_producer_from_video_games_table.rb                                                                                             
+|    |     |_rename_column_release_date_to_date_purchased_in_video_games_table.rb                                                           
+|    |_schema.rb                                                                                                                                                                           
 |-lib                                                                                                                                                                                             
 |-public                                                                                                                                                                                       
-|   |-images                                                                                                                                                                                 
-|   |   |_game_background.jpg                                                                                                                                                     
-|   |-javascripts                                                                                                                                                                           
-|   |-stylesheets                                                                                                                                                                           
+|    |-images                                                                                                                                                                                 
+|    |     |_game_background.jpg                                                                                                                                                 
+|    |-javascripts                                                                                                                                                                           
+|    |-stylesheets                                                                                                                                                                         
 |-.env                                                                                                                                                                                         
 |-.gitignore                                                                                                                                                                                 
 |-config.ru                                                                                                                                                                                   
