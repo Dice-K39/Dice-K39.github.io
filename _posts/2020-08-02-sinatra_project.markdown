@@ -44,7 +44,7 @@ SINATRA_PROJECT
 |    |     |_create_video_games.rb                                                                                                                                                 
 |    |     |_add_column_email_to_gamers_table.rb                                                                                                                       
 |    |     |_remove_column_producer_from_video_games_table.rb                                                                                             
-|    |     |_rename_column_release_date_to_date_purchased_in_video_games_table.rb                                                           
+|    |     |_rename_column_ . . . _games_table.rb                                                           
 |    |_schema.rb                                                                                                                                                                           
 |-lib                                                                                                                                                                                             
 |-public                                                                                                                                                                                       
