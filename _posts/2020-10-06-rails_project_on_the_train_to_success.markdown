@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project: On the Train to Success"
-date:       2020-10-06 10:12:13 +0000
+date:       2020-10-06 06:12:13 -0400
 permalink:  rails_project_on_the_train_to_success
 ---
 
@@ -17,6 +17,6 @@ I could not make any sense of it either. I dont remember from where I learned th
 
 ![](https://mgulkw.bn.files.1drv.com/y4mR5VPens5jJsddubnCENnYjxn09eFNfFwVaBNJg_PSCqru6JTewInGgExf_G5a0THIAkcYS8GycRX8wDZRvTCKP5zfvC4sMpdoU3LxmF-UuW5goWDRiYyFGecwhdCSSMBvFVLOXcGkrGXaIaTFbfD2ltRGYHwGSV7HSlZqsjf_RMe7yF14XqdizkiEL8jEuqNFX5VPho8UjF_kXurcb-okQ?width=536&height=576&cropmode=none)
 
-A programmer has many assignments and has many projects through assignment . . . A project has many assignments and has many programmers through assignments . . . A comment belongs to a programmer and an assignment. . . Everything makes sense. I think I could of went a bit farther such as a project has many comments through assignments but I wanted to keep it simple since I needed to get the Minimal Viable Product (MVP). 
+A programmer has many assignments and has many projects through assignments . . . A project has many assignments and has many programmers through assignments . . . A comment belongs to a programmer and an assignment. . . Everything makes sense. I think I could of went a bit farther such as a project has many comments through assignments but I wanted to keep it simple since I needed to get the Minimal Viable Product (MVP). 
 
 All in all, I think I did fine with only two weeks time to create a functional app in Ruby on Rails. I will work on this even after I submit this project because I want this to be a functional app that does everything that I want it to do. Plus, I added spec files from using generators so I can start learning how to code tests. Hopefully this will help me in finding a job after I graduate.
